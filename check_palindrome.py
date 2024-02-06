@@ -6,5 +6,4 @@ def check_palindrome(text):
 
 
 text = "did"
-# text = "hello"
 check_palindrome(text)
